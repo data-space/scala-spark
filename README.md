@@ -1,5 +1,4 @@
-# scala-spark
-Learn Spark and Scala
+# scala-spark - Learn Spark with Scala
 
 The purpose of this repository is to collect materials for learning Spark with Scala. 
 
